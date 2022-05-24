@@ -4,7 +4,7 @@ function century(year) {
     console.log(year%100 == 0?  yearFirstLetter :  yearFirstLetter+1);
 }
 
-// century(1901);
+century(1901);
 
 // century(100);
 

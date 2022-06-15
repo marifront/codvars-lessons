@@ -1,9 +1,11 @@
+// 1
 // function maskify(numberCard) {
 //     return numberCard.slice(-4).padStart(numberCard.length, '#')
 // }
 
 // maskify('234567');
 
+// 2
 function maskify(numberCard) {
     let str1 = '';
     let str2 = '';
